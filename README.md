@@ -1,2 +1,2 @@
 # coder
-A first look at github repositories
+A first glance at github repositories
